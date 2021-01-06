@@ -3,7 +3,7 @@ package lesson2;
 import java.util.Comparator;
 import java.util.Random;
 
-public class Main {
+public class Lesson2 {
     public static void main(String[] args) {
         MyArrayList<Integer> array = getArrayWithRandomValues();
         System.out.println(array);
